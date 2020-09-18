@@ -12,6 +12,7 @@ import project.ConnectionProvider;
 /**
  *
  * @author Yashraj Balidani
+ * @author Aman Kumar
  */
 public class newStudent extends javax.swing.JFrame {
 
